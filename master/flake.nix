@@ -9,7 +9,7 @@
   
   inputs.src-filesize-master.flake = false;
   inputs.src-filesize-master.owner = "sergiotapia";
-  inputs.src-filesize-master.ref   = "refs/heads/master";
+  inputs.src-filesize-master.ref   = "master";
   inputs.src-filesize-master.repo  = "filesize";
   inputs.src-filesize-master.type  = "github";
   
