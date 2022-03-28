@@ -11,7 +11,6 @@
   inputs.src-filesize-master.ref   = "refs/heads/master";
   inputs.src-filesize-master.owner = "sergiotapia";
   inputs.src-filesize-master.repo  = "filesize";
-  inputs.src-filesize-master.dir   = "";
   inputs.src-filesize-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
